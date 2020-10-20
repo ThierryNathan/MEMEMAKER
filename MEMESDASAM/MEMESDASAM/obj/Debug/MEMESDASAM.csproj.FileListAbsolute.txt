@@ -1,0 +1,10 @@
+C:\Users\tyty2\Desktop\EAD\POO\VisualStudio\MEMESDASAM\MEMESDASAM\MEMESDASAM\bin\Debug\MEMESDASAM.exe.config
+C:\Users\tyty2\Desktop\EAD\POO\VisualStudio\MEMESDASAM\MEMESDASAM\MEMESDASAM\bin\Debug\MEMESDASAM.exe
+C:\Users\tyty2\Desktop\EAD\POO\VisualStudio\MEMESDASAM\MEMESDASAM\MEMESDASAM\bin\Debug\MEMESDASAM.pdb
+C:\Users\tyty2\Desktop\EAD\POO\VisualStudio\MEMESDASAM\MEMESDASAM\MEMESDASAM\obj\Debug\MEMESDASAM.csprojAssemblyReference.cache
+C:\Users\tyty2\Desktop\EAD\POO\VisualStudio\MEMESDASAM\MEMESDASAM\MEMESDASAM\obj\Debug\MEMESDASAM.Form1.resources
+C:\Users\tyty2\Desktop\EAD\POO\VisualStudio\MEMESDASAM\MEMESDASAM\MEMESDASAM\obj\Debug\MEMESDASAM.Properties.Resources.resources
+C:\Users\tyty2\Desktop\EAD\POO\VisualStudio\MEMESDASAM\MEMESDASAM\MEMESDASAM\obj\Debug\MEMESDASAM.csproj.GenerateResource.cache
+C:\Users\tyty2\Desktop\EAD\POO\VisualStudio\MEMESDASAM\MEMESDASAM\MEMESDASAM\obj\Debug\MEMESDASAM.csproj.CoreCompileInputs.cache
+C:\Users\tyty2\Desktop\EAD\POO\VisualStudio\MEMESDASAM\MEMESDASAM\MEMESDASAM\obj\Debug\MEMESDASAM.exe
+C:\Users\tyty2\Desktop\EAD\POO\VisualStudio\MEMESDASAM\MEMESDASAM\MEMESDASAM\obj\Debug\MEMESDASAM.pdb
